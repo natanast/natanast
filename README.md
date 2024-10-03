@@ -2,7 +2,7 @@
 
 - 👩‍💻 Bioinformatics Scientist
 - 👩‍🔬 M.Sc. Translational Research in Biomedicine (Molecular Biology and Genetics Department | DUTh) 
-- 🧬 B.Sc. Biochemistry and Biotechnology (Biochemistry and Biotechnology department | UTh) 
+- 🧬 B.Sc. Biochemistry and Biotechnology (Biochemistry and Biotechnology Department | UTh) 
 
 <!--
 **natanast/natanast** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
