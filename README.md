@@ -1,4 +1,8 @@
-## Hi there 👋
+## Natasa Anastasiadou 👋
+
+- 👩‍💻 Bioinformatics Scientist
+- 👩‍🔬 M.Sc. Translational Research in Biomedicine (Molecular Biology and Genetics Department | DUTh) 
+- 🧬 B.Sc. Biochemistry and Biotechnology (Biochemistry and Biotechnology department | UTh) 
 
 <!--
 **natanast/natanast** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +18,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<a href="https://github.com/natanast">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=natanast&&hide=TeX&layout=compact" />
+</a>
