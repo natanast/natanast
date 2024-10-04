@@ -20,10 +20,6 @@ Here are some ideas to get you started:
 -->
 
 <a href="https://github.com/natanast">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=natanast&&hide=TeX&layout=compact" />
-</a>
-</br>
-<a href="https://github.com/natanast">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=natanast&count_private=true&langs_count=10&layout=compact&card_width=444" />
 </a>
 </br>
