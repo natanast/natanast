@@ -1,6 +1,6 @@
 ## Natasa Anastasiadou 👋
 
-- 👩‍💻 Bioinformatics Scientist
+- 👩🏻‍💻 Bioinformatics Scientist
 - 👩‍🔬 M.Sc. Translational Research in Biomedicine (Molecular Biology and Genetics Department | DUTh) 
 - 🧬 B.Sc. Biochemistry and Biotechnology (Biochemistry and Biotechnology Department | UTh) 
 
