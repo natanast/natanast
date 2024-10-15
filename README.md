@@ -20,9 +20,9 @@ Here are some ideas to get you started:
 -->
 
 <a href="https://github.com/natanast">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=natanast&count_private=true&langs_count=10&layout=compact&card_width=444" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=natanast&count_private=true&langs_count=10&layout=compact&card_width=444&theme=dark" />
 </a>
 </br>
 <a href="https://github.com/natanast">
-<img align="center" src="https://visitor-badge.laobi.icu/badge?page_id=natanast" />
+  <img align="center" src="https://visitor-badge.laobi.icu/badge?page_id=natanast" />
 </a>
