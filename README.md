@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 -->
 
 <a href="https://github.com/natanast">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=natanast&count_private=true&langs_count=10&layout=compact&card_width=444" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=natanast&count_private=true&langs_count=10&layout=compact&card_width=444&bg_color=4A6990&title_color=ffffff&text_color=ffffff" />
 </a>
 </br>
 <a href="https://github.com/natanast">
