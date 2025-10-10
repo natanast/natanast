@@ -24,3 +24,5 @@ Here are some ideas to get you started:
 </a>
 </br>
 
+You can explore more of my projects on [my website](https://natanast.github.io/) or reach out via [LinkedIn](https://www.linkedin.com/in/natasa-anastasiadou/).
+
