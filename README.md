@@ -1,6 +1,6 @@
 ## Natasa Anastasiadou 👋
 
-- 👩🏻‍💻 Bioinformatics Scientist (INAB | CERTH)
+- 👩🏻‍💻 Bioinformatics Scientist (Institute of Applied Biosciences | CERTH)
 - 👩🏻‍🔬 M.Sc. Translational Research in Biomedicine (Molecular Biology and Genetics Department | DUTh) 
 - 🧬 B.Sc. Biochemistry and Biotechnology (Biochemistry and Biotechnology Department | UTh) 
 
@@ -23,6 +23,7 @@ Here are some ideas to get you started:
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=natanast&count_private=true&langs_count=10&layout=compact&card_width=444&bg_color=527c8f&title_color=ffffff&text_color=ffffff" />
 </a>
 </br>
+</br>
 
-You can explore more of my projects on [my website](https://natanast.github.io/) or reach out via [LinkedIn](https://www.linkedin.com/in/natasa-anastasiadou/).
+You can explore more of my projects on [my website](https://natanast.github.io/) or reach out via [LinkedIn](https://www.linkedin.com/in/natasa-anastasiadou-87405a220/).
 
