@@ -1,6 +1,6 @@
 ## Natasa Anastasiadou 👋
 
-- 👩🏻‍💻 Bioinformatics Scientist (Institute of Applied Biosciences | CERTH)
+- 👩🏻‍💻 Bioinformatician | Computational Biologist (Institute of Applied Biosciences | CERTH)
 - 👩🏻‍🔬 M.Sc. Translational Research in Biomedicine (Molecular Biology and Genetics Department | DUTh) 
 - 🧬 B.Sc. Biochemistry and Biotechnology (Biochemistry and Biotechnology Department | UTh) 
 
