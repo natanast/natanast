@@ -19,11 +19,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<a href="https://github.com/natanast">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=natanast&count_private=true&langs_count=10&layout=compact&card_width=444&bg_color=527c8f&title_color=ffffff&text_color=ffffff" />
-</a>
-</br>
-</br>
-
 You can explore more of my projects on [my website](https://natanast.github.io/).
 
